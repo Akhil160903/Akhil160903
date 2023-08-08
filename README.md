@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 
 
 ### ⚙️ &nbsp;GitHub Analytics
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhil160903&show_icons=true&locale=en&layout=compact" alt="Akhil160903" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akhil160903&show_icons=true&hide_border=true" alt="Akhil160903" /></p>
